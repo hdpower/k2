@@ -7,3 +7,7 @@
 Odpowiedzi:
 ==============================================================================
 
+1. Zmienna stala byla poczatkowo typu FLOAT, oraz miala wartosc 2.7182818 (liczba Eulera)
+2. Za dodanie tego pytania jest odpowiedzialny uzytkownik hello1.
+   Jednym ze sposobow sprawdzenia tej informacji jest wykorzystanie polecenia git log w celu sprawdzenia historii zmian w projekcie.
+   Po znalezieniu interesujacego naz zatwierdzenia i spisaniu jego  numeru zatwierdzenia mozemy sprawdzic jaka byla tresc wybranego lub wszystkich plikow w chwili wybranego zatwierdzenia, oraz kto dokonal tego zatwierdzenia.
